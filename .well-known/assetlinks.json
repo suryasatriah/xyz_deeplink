@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.xyz.bank",
+      "sha256_cert_fingerprints": [
+        "9E:8D:4E:FF:05:93:D0:2A:30:52:A4:BD:EB:CB:A6:7C:BF:B6:8C:CA:F1:39:84:DF:51:57:36:2D:D9:5B:77:89"
+      ]
+    }
+  }
+]
